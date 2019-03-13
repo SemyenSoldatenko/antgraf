@@ -45,7 +45,10 @@ function MainView(scope, $interval, element, $http, $q) {
         );
     }
 
-    scope.load('mar5.json');
+    // scope.load('mar5.json');
+    let translation = $($('svg g')[0]).attr('transform').split('translate(')[1].split(')')[0].split(' ');
+    let dx = parseInt(translation[0]);
+    let dy = parseInt(translation[1]);
 
     scope.setTime = function(time) {
         var startIndex = firstIndexAfter(scope.time);
@@ -148,6 +151,7 @@ function MainView(scope, $interval, element, $http, $q) {
     }
 
     function updatePositions(tasks) {
+
         let statusPositions = {};
         tasks.forEach(t => {
             if (!statusPositions[t.status]) {
@@ -155,12 +159,12 @@ function MainView(scope, $interval, element, $http, $q) {
                 let cy;
                 let n = getStateNode(t.status);
                 if (n.length > 0) {
-                    cx = parseInt(n.attr('cx')) + 4;
-                    cy = parseInt(n.attr('cy')) + 2824;
+                    cx = parseInt(n.attr('cx')) + dx;
+                    cy = parseInt(n.attr('cy')) + dy;
                 } else {
                     let p = getMethodNode(t.status);
-                    cx = getCenterFromPoligon(p.attr('points')).x + 4;
-                    cy = getCenterFromPoligon(p.attr('points')).y + 2824;
+                    cx = getCenterFromPoligon(p.attr('points')).x + dx;
+                    cy = getCenterFromPoligon(p.attr('points')).y + dy;
                 }
                 statusPositions[t.status] = {
                     cx: cx,

@@ -18,7 +18,7 @@
     </style>
 </head>
 
-<body ng-app="cs-app" ng-controller="MainView">
+<body ng-app="cs-app" ng-controller="MainView" ng-init="load('mar5.json')">
 <div class="controls">
     <button ng-click="b1click()">Run animation</button>
     <button ng-click="b2click()">Stop</button>
@@ -29,7 +29,7 @@
     <button ng-click="setTime(sliderTime = 1551774329304)">9:25am lot of reds</button>&#160;&#160;&#160;
     <button ng-click="setTime(sliderTime = 1551798799235)">4:13pm lot of reds</button>&#160;&#160;&#160;
     <button ng-click="setTime(sliderTime = 1551803881399)">5:38pm recovering</button>&#160;&#160;&#160;
-
+    <a href="doer-mar-13.html">March 13, new dispatch</a>
     <br/>
     <br/>
     <input type="range" min="{{minTime}}" max="{{maxTime}}" value="0" class="slider" ng-model="sliderTime"

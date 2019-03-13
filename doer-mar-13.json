@@ -1,0 +1,2457 @@
+[
+  {
+    "id": 1000,
+    "task_id": 1000,
+    "created": "2019-03-13T14:08:54.429361",
+    "final_status": "CSAP Uploaded",
+    "exception_type": null
+  },
+  {
+    "id": -1001,
+    "task_id": 1000,
+    "created": "2019-03-13T14:08:55.991",
+    "final_status": "com.tradeshift.cloudscan.ap.FileSizeValidator.validateCsapFileSize",
+    "exception_type": null
+  },
+  {
+    "id": 1001,
+    "task_id": 1000,
+    "created": "2019-03-13T14:08:56.09187",
+    "final_status": "CSAP File validated",
+    "exception_type": null
+  },
+  {
+    "id": -1002,
+    "task_id": 1000,
+    "created": "2019-03-13T14:09:01.366",
+    "final_status": "com.tradeshift.cloudscan.ap.CsapImporter.createDraft",
+    "exception_type": null
+  },
+  {
+    "id": 1002,
+    "task_id": 1000,
+    "created": "2019-03-13T14:09:01.466905",
+    "final_status": "CSAP Draft Created",
+    "exception_type": null
+  },
+  {
+    "id": -1003,
+    "task_id": 1000,
+    "created": "2019-03-13T14:09:01.897",
+    "final_status": "com.tradeshift.cloudscan.ap.CsapImporter.submitFile",
+    "exception_type": null
+  },
+  {
+    "id": 1003,
+    "task_id": 1000,
+    "created": "2019-03-13T14:09:01.997208",
+    "final_status": "CSAP File submitted to convert",
+    "exception_type": null
+  },
+  {
+    "id": -1004,
+    "task_id": 1000,
+    "created": "2019-03-13T14:09:02.289",
+    "final_status": "com.tradeshift.cloudscan.ap.CsapImporter.updateMetadata",
+    "exception_type": null
+  },
+  {
+    "id": 1004,
+    "task_id": 1000,
+    "created": "2019-03-13T14:09:02.389825",
+    "final_status": "CSAP Conversion started",
+    "exception_type": null
+  },
+  {
+    "id": -1005,
+    "task_id": 1000,
+    "created": "2019-03-13T14:09:12.342",
+    "final_status": "com.tradeshift.cloudscan.ap.CsapImporter.checkImportStatus",
+    "exception_type": null
+  },
+  {
+    "id": 1005,
+    "task_id": 1000,
+    "created": "2019-03-13T14:09:12.442858",
+    "final_status": "CSAP Conversion started",
+    "exception_type": null
+  },
+  {
+    "id": 1006,
+    "task_id": 1006,
+    "created": "2019-03-13T14:09:14.607511",
+    "final_status": "CSAP Uploaded",
+    "exception_type": null
+  },
+  {
+    "id": -1007,
+    "task_id": 1006,
+    "created": "2019-03-13T14:09:16.030",
+    "final_status": "com.tradeshift.cloudscan.ap.FileSizeValidator.validateCsapFileSize",
+    "exception_type": null
+  },
+  {
+    "id": 1007,
+    "task_id": 1006,
+    "created": "2019-03-13T14:09:16.130712",
+    "final_status": "CSAP File validated",
+    "exception_type": null
+  },
+  {
+    "id": -1008,
+    "task_id": 1006,
+    "created": "2019-03-13T14:09:16.658",
+    "final_status": "com.tradeshift.cloudscan.ap.CsapImporter.createDraft",
+    "exception_type": null
+  },
+  {
+    "id": 1008,
+    "task_id": 1006,
+    "created": "2019-03-13T14:09:16.758901",
+    "final_status": "CSAP Draft Created",
+    "exception_type": null
+  },
+  {
+    "id": -1009,
+    "task_id": 1006,
+    "created": "2019-03-13T14:09:16.984",
+    "final_status": "com.tradeshift.cloudscan.ap.CsapImporter.submitFile",
+    "exception_type": null
+  },
+  {
+    "id": 1009,
+    "task_id": 1006,
+    "created": "2019-03-13T14:09:17.084227",
+    "final_status": "CSAP File submitted to convert",
+    "exception_type": null
+  },
+  {
+    "id": -1010,
+    "task_id": 1006,
+    "created": "2019-03-13T14:09:17.283",
+    "final_status": "com.tradeshift.cloudscan.ap.CsapImporter.updateMetadata",
+    "exception_type": null
+  },
+  {
+    "id": 1010,
+    "task_id": 1006,
+    "created": "2019-03-13T14:09:17.383555",
+    "final_status": "CSAP Conversion started",
+    "exception_type": null
+  },
+  {
+    "id": -1011,
+    "task_id": 1000,
+    "created": "2019-03-13T14:09:22.391",
+    "final_status": "com.tradeshift.cloudscan.ap.CsapImporter.checkImportStatus",
+    "exception_type": null
+  },
+  {
+    "id": 1011,
+    "task_id": 1000,
+    "created": "2019-03-13T14:09:22.491268",
+    "final_status": "CSAP Conversion started",
+    "exception_type": null
+  },
+  {
+    "id": -1012,
+    "task_id": 1006,
+    "created": "2019-03-13T14:09:27.341",
+    "final_status": "com.tradeshift.cloudscan.ap.CsapImporter.checkImportStatus",
+    "exception_type": null
+  },
+  {
+    "id": 1012,
+    "task_id": 1006,
+    "created": "2019-03-13T14:09:27.441474",
+    "final_status": "CSAP Conversion started",
+    "exception_type": null
+  },
+  {
+    "id": -1013,
+    "task_id": 1000,
+    "created": "2019-03-13T14:09:32.457",
+    "final_status": "com.tradeshift.cloudscan.ap.CsapImporter.checkImportStatus",
+    "exception_type": null
+  },
+  {
+    "id": 1013,
+    "task_id": 1000,
+    "created": "2019-03-13T14:09:32.557391",
+    "final_status": "CSAP Conversion started",
+    "exception_type": null
+  },
+  {
+    "id": -1014,
+    "task_id": 1006,
+    "created": "2019-03-13T14:09:37.437",
+    "final_status": "com.tradeshift.cloudscan.ap.CsapImporter.checkImportStatus",
+    "exception_type": null
+  },
+  {
+    "id": 1014,
+    "task_id": 1006,
+    "created": "2019-03-13T14:09:37.537437",
+    "final_status": "CSAP Conversion started",
+    "exception_type": null
+  },
+  {
+    "id": -1015,
+    "task_id": 1000,
+    "created": "2019-03-13T14:09:42.518",
+    "final_status": "com.tradeshift.cloudscan.ap.CsapImporter.checkImportStatus",
+    "exception_type": null
+  },
+  {
+    "id": 1015,
+    "task_id": 1000,
+    "created": "2019-03-13T14:09:42.618465",
+    "final_status": "CSAP Conversion started",
+    "exception_type": null
+  },
+  {
+    "id": -1016,
+    "task_id": 1006,
+    "created": "2019-03-13T14:09:47.493",
+    "final_status": "com.tradeshift.cloudscan.ap.CsapImporter.checkImportStatus",
+    "exception_type": null
+  },
+  {
+    "id": 1016,
+    "task_id": 1006,
+    "created": "2019-03-13T14:09:47.59366",
+    "final_status": "CSAP Conversion started",
+    "exception_type": null
+  },
+  {
+    "id": -1017,
+    "task_id": 1000,
+    "created": "2019-03-13T14:09:52.561",
+    "final_status": "com.tradeshift.cloudscan.ap.CsapImporter.checkImportStatus",
+    "exception_type": null
+  },
+  {
+    "id": 1017,
+    "task_id": 1000,
+    "created": "2019-03-13T14:09:52.661934",
+    "final_status": "CSAP Conversion started",
+    "exception_type": null
+  },
+  {
+    "id": -1018,
+    "task_id": 1006,
+    "created": "2019-03-13T14:09:57.547",
+    "final_status": "com.tradeshift.cloudscan.ap.CsapImporter.checkImportStatus",
+    "exception_type": null
+  },
+  {
+    "id": 1018,
+    "task_id": 1006,
+    "created": "2019-03-13T14:09:57.647118",
+    "final_status": "CSAP Conversion started",
+    "exception_type": null
+  },
+  {
+    "id": -1019,
+    "task_id": 1000,
+    "created": "2019-03-13T14:10:02.622",
+    "final_status": "com.tradeshift.cloudscan.ap.CsapImporter.checkImportStatus",
+    "exception_type": null
+  },
+  {
+    "id": 1019,
+    "task_id": 1000,
+    "created": "2019-03-13T14:10:02.722144",
+    "final_status": "CSAP Conversion started",
+    "exception_type": null
+  },
+  {
+    "id": -1020,
+    "task_id": 1006,
+    "created": "2019-03-13T14:10:07.612",
+    "final_status": "com.tradeshift.cloudscan.ap.CsapImporter.checkImportStatus",
+    "exception_type": null
+  },
+  {
+    "id": 1020,
+    "task_id": 1006,
+    "created": "2019-03-13T14:10:07.712333",
+    "final_status": "CSAP Conversion started",
+    "exception_type": null
+  },
+  {
+    "id": -1021,
+    "task_id": 1000,
+    "created": "2019-03-13T14:10:12.678",
+    "final_status": "com.tradeshift.cloudscan.ap.CsapImporter.checkImportStatus",
+    "exception_type": null
+  },
+  {
+    "id": 1021,
+    "task_id": 1000,
+    "created": "2019-03-13T14:10:12.778691",
+    "final_status": "CSAP Conversion started",
+    "exception_type": null
+  },
+  {
+    "id": -1022,
+    "task_id": 1006,
+    "created": "2019-03-13T14:10:17.664",
+    "final_status": "com.tradeshift.cloudscan.ap.CsapImporter.checkImportStatus",
+    "exception_type": null
+  },
+  {
+    "id": 1022,
+    "task_id": 1006,
+    "created": "2019-03-13T14:10:17.764669",
+    "final_status": "CSAP Document converted",
+    "exception_type": null
+  },
+  {
+    "id": -1023,
+    "task_id": 1006,
+    "created": "2019-03-13T14:10:18.955",
+    "final_status": "com.tradeshift.cloudscan.ap.CsapImporter.recordEngineVersionProperty",
+    "exception_type": null
+  },
+  {
+    "id": 1023,
+    "task_id": 1006,
+    "created": "2019-03-13T14:10:19.055839",
+    "final_status": "CSAP engineVersion saved",
+    "exception_type": null
+  },
+  {
+    "id": -1024,
+    "task_id": 1006,
+    "created": "2019-03-13T14:10:19.553",
+    "final_status": "com.tradeshift.cloudscan.ap.CsapImporter.recordOriginalFormatProperty",
+    "exception_type": null
+  },
+  {
+    "id": 1024,
+    "task_id": 1006,
+    "created": "2019-03-13T14:10:19.653281",
+    "final_status": "CSAP originalFormat saved",
+    "exception_type": null
+  },
+  {
+    "id": -1025,
+    "task_id": 1006,
+    "created": "2019-03-13T14:10:21.258",
+    "final_status": "com.tradeshift.cloudscan.ap.CsapImporter.createHocrJson",
+    "exception_type": null
+  },
+  {
+    "id": 1025,
+    "task_id": 1006,
+    "created": "2019-03-13T14:10:21.358655",
+    "final_status": "CSAP ts-sourcepage.json created",
+    "exception_type": null
+  },
+  {
+    "id": -1026,
+    "task_id": 1000,
+    "created": "2019-03-13T14:10:22.765",
+    "final_status": "com.tradeshift.cloudscan.ap.CsapImporter.checkImportStatus",
+    "exception_type": null
+  },
+  {
+    "id": 1026,
+    "task_id": 1000,
+    "created": "2019-03-13T14:10:22.865451",
+    "final_status": "CSAP Document converted",
+    "exception_type": null
+  },
+  {
+    "id": -1027,
+    "task_id": 1000,
+    "created": "2019-03-13T14:10:24.004",
+    "final_status": "com.tradeshift.cloudscan.ap.CsapImporter.recordEngineVersionProperty",
+    "exception_type": null
+  },
+  {
+    "id": 1027,
+    "task_id": 1000,
+    "created": "2019-03-13T14:10:24.104276",
+    "final_status": "CSAP engineVersion saved",
+    "exception_type": null
+  },
+  {
+    "id": -1028,
+    "task_id": 1006,
+    "created": "2019-03-13T14:10:24.251",
+    "final_status": "com.tradeshift.cloudscan.ap.CsapImporter.updateUbl",
+    "exception_type": null
+  },
+  {
+    "id": 1028,
+    "task_id": 1006,
+    "created": "2019-03-13T14:10:24.351633",
+    "final_status": "CSAP UBL updated",
+    "exception_type": null
+  },
+  {
+    "id": -1029,
+    "task_id": 1006,
+    "created": "2019-03-13T14:10:24.440",
+    "final_status": "com.tradeshift.cloudscan.ap.CsapImporter.markReadyForTranscription",
+    "exception_type": null
+  },
+  {
+    "id": -1030,
+    "task_id": 1000,
+    "created": "2019-03-13T14:10:24.479",
+    "final_status": "com.tradeshift.cloudscan.ap.CsapImporter.recordOriginalFormatProperty",
+    "exception_type": null
+  },
+  {
+    "id": 1029,
+    "task_id": 1006,
+    "created": "2019-03-13T14:10:24.530541",
+    "final_status": "CSAP import Successful",
+    "exception_type": null
+  },
+  {
+    "id": 1030,
+    "task_id": 1000,
+    "created": "2019-03-13T14:10:24.57963",
+    "final_status": "CSAP originalFormat saved",
+    "exception_type": null
+  },
+  {
+    "id": -1031,
+    "task_id": 1006,
+    "created": "2019-03-13T14:10:24.596",
+    "final_status": "com.tradeshift.cloudscan.ap.CsapImporter.moveFileToSuccessFolder",
+    "exception_type": null
+  },
+  {
+    "id": 1031,
+    "task_id": 1006,
+    "created": "2019-03-13T14:10:24.662282",
+    "final_status": "CSAP File moved to success directory",
+    "exception_type": null
+  },
+  {
+    "id": -1032,
+    "task_id": 1006,
+    "created": "2019-03-13T14:10:24.677",
+    "final_status": "com.tradeshift.cloudscan.ap.CsapImporter.reportSuccess",
+    "exception_type": null
+  },
+  {
+    "id": 1032,
+    "task_id": 1006,
+    "created": "2019-03-13T14:10:24.693822",
+    "final_status": "Ready For Dispatch",
+    "exception_type": null
+  },
+  {
+    "id": -1033,
+    "task_id": 1000,
+    "created": "2019-03-13T14:10:25.738",
+    "final_status": "com.tradeshift.cloudscan.ap.CsapImporter.createHocrJson",
+    "exception_type": null
+  },
+  {
+    "id": 1033,
+    "task_id": 1000,
+    "created": "2019-03-13T14:10:25.83856",
+    "final_status": "CSAP ts-sourcepage.json created",
+    "exception_type": null
+  },
+  {
+    "id": -1034,
+    "task_id": 1006,
+    "created": "2019-03-13T14:10:26.022",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.createDispatchingDocument",
+    "exception_type": null
+  },
+  {
+    "id": 1034,
+    "task_id": 1006,
+    "created": "2019-03-13T14:10:26.122602",
+    "final_status": "DispatchingDocument ready",
+    "exception_type": null
+  },
+  {
+    "id": -1035,
+    "task_id": 1006,
+    "created": "2019-03-13T14:10:26.841",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.startAutoDispatch",
+    "exception_type": null
+  },
+  {
+    "id": 1035,
+    "task_id": 1006,
+    "created": "2019-03-13T14:10:26.94183",
+    "final_status": "Dispatch Backlog",
+    "exception_type": null
+  },
+  {
+    "id": -1036,
+    "task_id": 1000,
+    "created": "2019-03-13T14:10:27.795",
+    "final_status": "com.tradeshift.cloudscan.ap.CsapImporter.updateUbl",
+    "exception_type": null
+  },
+  {
+    "id": 1036,
+    "task_id": 1000,
+    "created": "2019-03-13T14:10:27.895541",
+    "final_status": "CSAP UBL updated",
+    "exception_type": null
+  },
+  {
+    "id": -1037,
+    "task_id": 1000,
+    "created": "2019-03-13T14:10:27.939",
+    "final_status": "com.tradeshift.cloudscan.ap.CsapImporter.markReadyForTranscription",
+    "exception_type": null
+  },
+  {
+    "id": 1037,
+    "task_id": 1000,
+    "created": "2019-03-13T14:10:27.98445",
+    "final_status": "CSAP import Successful",
+    "exception_type": null
+  },
+  {
+    "id": -1038,
+    "task_id": 1000,
+    "created": "2019-03-13T14:10:28.038",
+    "final_status": "com.tradeshift.cloudscan.ap.CsapImporter.moveFileToSuccessFolder",
+    "exception_type": null
+  },
+  {
+    "id": 1038,
+    "task_id": 1000,
+    "created": "2019-03-13T14:10:28.093732",
+    "final_status": "CSAP File moved to success directory",
+    "exception_type": null
+  },
+  {
+    "id": -1039,
+    "task_id": 1000,
+    "created": "2019-03-13T14:10:28.110",
+    "final_status": "com.tradeshift.cloudscan.ap.CsapImporter.reportSuccess",
+    "exception_type": null
+  },
+  {
+    "id": 1039,
+    "task_id": 1000,
+    "created": "2019-03-13T14:10:28.127289",
+    "final_status": "Ready For Dispatch",
+    "exception_type": null
+  },
+  {
+    "id": -1040,
+    "task_id": 1000,
+    "created": "2019-03-13T14:10:36.351",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.createDispatchingDocument",
+    "exception_type": null
+  },
+  {
+    "id": 1040,
+    "task_id": 1000,
+    "created": "2019-03-13T14:10:36.451857",
+    "final_status": "DispatchingDocument ready",
+    "exception_type": null
+  },
+  {
+    "id": -1041,
+    "task_id": 1000,
+    "created": "2019-03-13T14:10:36.625",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.startAutoDispatch",
+    "exception_type": null
+  },
+  {
+    "id": 1041,
+    "task_id": 1000,
+    "created": "2019-03-13T14:10:36.725086",
+    "final_status": "Dispatch Backlog",
+    "exception_type": null
+  },
+  {
+    "id": 1042,
+    "task_id": 1042,
+    "created": "2019-03-13T14:11:51.855955",
+    "final_status": "VAN Uploaded",
+    "exception_type": null
+  },
+  {
+    "id": -1043,
+    "task_id": 1042,
+    "created": "2019-03-13T14:11:56.095",
+    "final_status": "com.tradeshift.cloudscan.ap.FileSizeValidator.validateVanFileSize",
+    "exception_type": null
+  },
+  {
+    "id": 1043,
+    "task_id": 1042,
+    "created": "2019-03-13T14:11:56.195047",
+    "final_status": "VAN File validated",
+    "exception_type": null
+  },
+  {
+    "id": -1044,
+    "task_id": 1042,
+    "created": "2019-03-13T14:11:56.497",
+    "final_status": "com.tradeshift.cloudscan.ap.VanImporter.submitFile",
+    "exception_type": null
+  },
+  {
+    "id": 1044,
+    "task_id": 1042,
+    "created": "2019-03-13T14:11:56.597511",
+    "final_status": "VAN File submitted to convert",
+    "exception_type": null
+  },
+  {
+    "id": -1045,
+    "task_id": 1042,
+    "created": "2019-03-13T14:12:06.594",
+    "final_status": "com.tradeshift.cloudscan.ap.VanImporter.checkImportStatus",
+    "exception_type": null
+  },
+  {
+    "id": 1045,
+    "task_id": 1042,
+    "created": "2019-03-13T14:12:06.69471",
+    "final_status": "VAN Document converted",
+    "exception_type": null
+  },
+  {
+    "id": -1046,
+    "task_id": 1042,
+    "created": "2019-03-13T14:12:06.958",
+    "final_status": "com.tradeshift.cloudscan.ap.VanImporter.updateMetadata",
+    "exception_type": null
+  },
+  {
+    "id": 1046,
+    "task_id": 1042,
+    "created": "2019-03-13T14:12:07.058314",
+    "final_status": "VAN document metadata updated",
+    "exception_type": null
+  },
+  {
+    "id": -1047,
+    "task_id": 1042,
+    "created": "2019-03-13T14:12:07.339",
+    "final_status": "com.tradeshift.cloudscan.ap.VanImporter.findVanReceiver",
+    "exception_type": null
+  },
+  {
+    "id": 1047,
+    "task_id": 1042,
+    "created": "2019-03-13T14:12:07.439389",
+    "final_status": "VAN Receiver found",
+    "exception_type": null
+  },
+  {
+    "id": -1048,
+    "task_id": 1042,
+    "created": "2019-03-13T14:12:07.940",
+    "final_status": "com.tradeshift.cloudscan.ap.VanImporter.createReceiverDraft",
+    "exception_type": null
+  },
+  {
+    "id": 1048,
+    "task_id": 1042,
+    "created": "2019-03-13T14:12:08.040749",
+    "final_status": "VAN Receiver DRAFT created",
+    "exception_type": null
+  },
+  {
+    "id": -1049,
+    "task_id": 1042,
+    "created": "2019-03-13T14:12:08.470",
+    "final_status": "com.tradeshift.cloudscan.ap.VanImporter.saveTagsAndProperties",
+    "exception_type": null
+  },
+  {
+    "id": 1049,
+    "task_id": 1042,
+    "created": "2019-03-13T14:12:08.570815",
+    "final_status": "VAN Receiver DRAFT metadata updated",
+    "exception_type": null
+  },
+  {
+    "id": -1050,
+    "task_id": 1042,
+    "created": "2019-03-13T14:12:08.716",
+    "final_status": "com.tradeshift.cloudscan.ap.VanImporter.saveLegalEntity",
+    "exception_type": null
+  },
+  {
+    "id": 1050,
+    "task_id": 1042,
+    "created": "2019-03-13T14:12:08.816759",
+    "final_status": "VAN Receiver Legal entity name saved",
+    "exception_type": null
+  },
+  {
+    "id": -1051,
+    "task_id": 1042,
+    "created": "2019-03-13T14:12:09.313",
+    "final_status": "com.tradeshift.cloudscan.ap.VanImporter.saveSenderReceiverMetadata",
+    "exception_type": null
+  },
+  {
+    "id": 1051,
+    "task_id": 1042,
+    "created": "2019-03-13T14:12:09.413383",
+    "final_status": "VAN Sender and receiver metadata updated",
+    "exception_type": null
+  },
+  {
+    "id": -1052,
+    "task_id": 1042,
+    "created": "2019-03-13T14:12:36.567",
+    "final_status": "com.tradeshift.cloudscan.ap.VanPreviewCreator.createTsSourcepage",
+    "exception_type": null
+  },
+  {
+    "id": 1052,
+    "task_id": 1042,
+    "created": "2019-03-13T14:12:36.66738",
+    "final_status": "VAN ts-sourcepage.xml created",
+    "exception_type": null
+  },
+  {
+    "id": -1053,
+    "task_id": 1042,
+    "created": "2019-03-13T14:12:39.552",
+    "final_status": "com.tradeshift.cloudscan.ap.VanImporter.deleteVanDocument",
+    "exception_type": null
+  },
+  {
+    "id": 1053,
+    "task_id": 1042,
+    "created": "2019-03-13T14:12:39.652622",
+    "final_status": "VAN vanDocument deleted",
+    "exception_type": null
+  },
+  {
+    "id": -1054,
+    "task_id": 1042,
+    "created": "2019-03-13T14:12:39.715",
+    "final_status": "com.tradeshift.cloudscan.ap.VanImporter.moveVanFileToSuccessFolder",
+    "exception_type": null
+  },
+  {
+    "id": 1054,
+    "task_id": 1042,
+    "created": "2019-03-13T14:12:39.779834",
+    "final_status": "VAN File moved to success directory",
+    "exception_type": null
+  },
+  {
+    "id": -1055,
+    "task_id": 1042,
+    "created": "2019-03-13T14:12:39.823",
+    "final_status": "com.tradeshift.cloudscan.ap.VanImporter.markReadyForTranscription2",
+    "exception_type": null
+  },
+  {
+    "id": 1055,
+    "task_id": 1042,
+    "created": "2019-03-13T14:12:39.868685",
+    "final_status": "VAN Document imported",
+    "exception_type": null
+  },
+  {
+    "id": -1056,
+    "task_id": 1042,
+    "created": "2019-03-13T14:12:39.878",
+    "final_status": "com.tradeshift.cloudscan.ap.VanImporter.reportSuccess2",
+    "exception_type": null
+  },
+  {
+    "id": 1056,
+    "task_id": 1042,
+    "created": "2019-03-13T14:12:39.888148",
+    "final_status": "Ready For Dispatch",
+    "exception_type": null
+  },
+  {
+    "id": -1057,
+    "task_id": 1042,
+    "created": "2019-03-13T14:12:46.770",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.createDispatchingDocument",
+    "exception_type": null
+  },
+  {
+    "id": 1057,
+    "task_id": 1042,
+    "created": "2019-03-13T14:12:46.870725",
+    "final_status": "DispatchingDocument ready",
+    "exception_type": null
+  },
+  {
+    "id": -1058,
+    "task_id": 1042,
+    "created": "2019-03-13T14:12:47.074",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.startAutoDispatch",
+    "exception_type": null
+  },
+  {
+    "id": 1058,
+    "task_id": 1042,
+    "created": "2019-03-13T14:12:47.174216",
+    "final_status": "Dispatch Backlog",
+    "exception_type": null
+  },
+  {
+    "id": 1059,
+    "task_id": 1059,
+    "created": "2019-03-13T14:13:02.467424",
+    "final_status": "VAN Uploaded",
+    "exception_type": null
+  },
+  {
+    "id": -1060,
+    "task_id": 1059,
+    "created": "2019-03-13T14:13:06.159",
+    "final_status": "com.tradeshift.cloudscan.ap.FileSizeValidator.validateVanFileSize",
+    "exception_type": null
+  },
+  {
+    "id": 1060,
+    "task_id": 1059,
+    "created": "2019-03-13T14:13:06.259043",
+    "final_status": "VAN File validated",
+    "exception_type": null
+  },
+  {
+    "id": -1061,
+    "task_id": 1059,
+    "created": "2019-03-13T14:13:06.480",
+    "final_status": "com.tradeshift.cloudscan.ap.VanImporter.submitFile",
+    "exception_type": null
+  },
+  {
+    "id": 1061,
+    "task_id": 1059,
+    "created": "2019-03-13T14:13:06.580569",
+    "final_status": "VAN File submitted to convert",
+    "exception_type": null
+  },
+  {
+    "id": 1062,
+    "task_id": 1062,
+    "created": "2019-03-13T14:13:12.566194",
+    "final_status": "VAN Uploaded",
+    "exception_type": null
+  },
+  {
+    "id": -1063,
+    "task_id": 1062,
+    "created": "2019-03-13T14:13:16.192",
+    "final_status": "com.tradeshift.cloudscan.ap.FileSizeValidator.validateVanFileSize",
+    "exception_type": null
+  },
+  {
+    "id": 1063,
+    "task_id": 1062,
+    "created": "2019-03-13T14:13:16.292781",
+    "final_status": "VAN File validated",
+    "exception_type": null
+  },
+  {
+    "id": -1064,
+    "task_id": 1059,
+    "created": "2019-03-13T14:13:16.562",
+    "final_status": "com.tradeshift.cloudscan.ap.VanImporter.checkImportStatus",
+    "exception_type": null
+  },
+  {
+    "id": 1064,
+    "task_id": 1059,
+    "created": "2019-03-13T14:13:16.662219",
+    "final_status": "VAN Document converted",
+    "exception_type": null
+  },
+  {
+    "id": -1065,
+    "task_id": 1059,
+    "created": "2019-03-13T14:13:16.867",
+    "final_status": "com.tradeshift.cloudscan.ap.VanImporter.updateMetadata",
+    "exception_type": null
+  },
+  {
+    "id": 1065,
+    "task_id": 1059,
+    "created": "2019-03-13T14:13:16.967452",
+    "final_status": "VAN document metadata updated",
+    "exception_type": null
+  },
+  {
+    "id": -1066,
+    "task_id": 1059,
+    "created": "2019-03-13T14:13:17.122",
+    "final_status": "com.tradeshift.cloudscan.ap.VanImporter.findVanReceiver",
+    "exception_type": null
+  },
+  {
+    "id": 1066,
+    "task_id": 1059,
+    "created": "2019-03-13T14:13:17.222711",
+    "final_status": "VAN Receiver found",
+    "exception_type": null
+  },
+  {
+    "id": -1067,
+    "task_id": 1059,
+    "created": "2019-03-13T14:13:17.835",
+    "final_status": "com.tradeshift.cloudscan.ap.VanImporter.createReceiverDraft",
+    "exception_type": null
+  },
+  {
+    "id": 1067,
+    "task_id": 1059,
+    "created": "2019-03-13T14:13:17.935103",
+    "final_status": "VAN Receiver DRAFT created",
+    "exception_type": null
+  },
+  {
+    "id": -1068,
+    "task_id": 1059,
+    "created": "2019-03-13T14:13:18.286",
+    "final_status": "com.tradeshift.cloudscan.ap.VanImporter.saveTagsAndProperties",
+    "exception_type": null
+  },
+  {
+    "id": 1068,
+    "task_id": 1059,
+    "created": "2019-03-13T14:13:18.386758",
+    "final_status": "VAN Receiver DRAFT metadata updated",
+    "exception_type": null
+  },
+  {
+    "id": -1069,
+    "task_id": 1059,
+    "created": "2019-03-13T14:13:18.474",
+    "final_status": "com.tradeshift.cloudscan.ap.VanImporter.saveLegalEntity",
+    "exception_type": null
+  },
+  {
+    "id": 1069,
+    "task_id": 1059,
+    "created": "2019-03-13T14:13:18.563608",
+    "final_status": "VAN Receiver Legal entity name saved",
+    "exception_type": null
+  },
+  {
+    "id": -1070,
+    "task_id": 1059,
+    "created": "2019-03-13T14:13:18.839",
+    "final_status": "com.tradeshift.cloudscan.ap.VanImporter.saveSenderReceiverMetadata",
+    "exception_type": null
+  },
+  {
+    "id": 1070,
+    "task_id": 1059,
+    "created": "2019-03-13T14:13:18.93968",
+    "final_status": "VAN Sender and receiver metadata updated",
+    "exception_type": null
+  },
+  {
+    "id": -1071,
+    "task_id": 1062,
+    "created": "2019-03-13T14:13:18.989",
+    "final_status": "com.tradeshift.cloudscan.ap.VanImporter.submitFile",
+    "exception_type": null
+  },
+  {
+    "id": 1071,
+    "task_id": 1062,
+    "created": "2019-03-13T14:13:19.08901",
+    "final_status": "VAN File submitted to convert",
+    "exception_type": null
+  },
+  {
+    "id": 1072,
+    "task_id": 1072,
+    "created": "2019-03-13T14:13:22.6706",
+    "final_status": "VAN Uploaded",
+    "exception_type": null
+  },
+  {
+    "id": -1073,
+    "task_id": 1072,
+    "created": "2019-03-13T14:13:26.222",
+    "final_status": "com.tradeshift.cloudscan.ap.FileSizeValidator.validateVanFileSize",
+    "exception_type": null
+  },
+  {
+    "id": 1073,
+    "task_id": 1072,
+    "created": "2019-03-13T14:13:26.322262",
+    "final_status": "VAN File validated",
+    "exception_type": null
+  },
+  {
+    "id": -1074,
+    "task_id": 1062,
+    "created": "2019-03-13T14:13:29.049",
+    "final_status": "com.tradeshift.cloudscan.ap.VanImporter.checkImportStatus",
+    "exception_type": null
+  },
+  {
+    "id": 1074,
+    "task_id": 1062,
+    "created": "2019-03-13T14:13:29.149156",
+    "final_status": "VAN Document converted",
+    "exception_type": null
+  },
+  {
+    "id": -1075,
+    "task_id": 1062,
+    "created": "2019-03-13T14:13:29.383",
+    "final_status": "com.tradeshift.cloudscan.ap.VanImporter.updateMetadata",
+    "exception_type": null
+  },
+  {
+    "id": 1075,
+    "task_id": 1062,
+    "created": "2019-03-13T14:13:29.483166",
+    "final_status": "VAN document metadata updated",
+    "exception_type": null
+  },
+  {
+    "id": -1076,
+    "task_id": 1062,
+    "created": "2019-03-13T14:13:29.650",
+    "final_status": "com.tradeshift.cloudscan.ap.VanImporter.findVanReceiver",
+    "exception_type": null
+  },
+  {
+    "id": 1076,
+    "task_id": 1062,
+    "created": "2019-03-13T14:13:29.750999",
+    "final_status": "VAN Receiver found",
+    "exception_type": null
+  },
+  {
+    "id": -1077,
+    "task_id": 1072,
+    "created": "2019-03-13T14:13:29.963",
+    "final_status": "com.tradeshift.cloudscan.ap.VanImporter.submitFile",
+    "exception_type": null
+  },
+  {
+    "id": 1077,
+    "task_id": 1072,
+    "created": "2019-03-13T14:13:30.063991",
+    "final_status": "VAN File submitted to convert",
+    "exception_type": null
+  },
+  {
+    "id": -1078,
+    "task_id": 1062,
+    "created": "2019-03-13T14:13:30.403",
+    "final_status": "com.tradeshift.cloudscan.ap.VanImporter.createReceiverDraft",
+    "exception_type": null
+  },
+  {
+    "id": 1078,
+    "task_id": 1062,
+    "created": "2019-03-13T14:13:30.503318",
+    "final_status": "VAN Receiver DRAFT created",
+    "exception_type": null
+  },
+  {
+    "id": -1079,
+    "task_id": 1062,
+    "created": "2019-03-13T14:13:31.027",
+    "final_status": "com.tradeshift.cloudscan.ap.VanImporter.saveTagsAndProperties",
+    "exception_type": null
+  },
+  {
+    "id": 1079,
+    "task_id": 1062,
+    "created": "2019-03-13T14:13:31.127903",
+    "final_status": "VAN Receiver DRAFT metadata updated",
+    "exception_type": null
+  },
+  {
+    "id": -1080,
+    "task_id": 1062,
+    "created": "2019-03-13T14:13:31.387",
+    "final_status": "com.tradeshift.cloudscan.ap.VanImporter.saveLegalEntity",
+    "exception_type": null
+  },
+  {
+    "id": 1080,
+    "task_id": 1062,
+    "created": "2019-03-13T14:13:31.487643",
+    "final_status": "VAN Receiver Legal entity name saved",
+    "exception_type": null
+  },
+  {
+    "id": -1081,
+    "task_id": 1062,
+    "created": "2019-03-13T14:13:31.814",
+    "final_status": "com.tradeshift.cloudscan.ap.VanImporter.saveSenderReceiverMetadata",
+    "exception_type": null
+  },
+  {
+    "id": 1081,
+    "task_id": 1062,
+    "created": "2019-03-13T14:13:31.914349",
+    "final_status": "VAN Sender and receiver metadata updated",
+    "exception_type": null
+  },
+  {
+    "id": -1082,
+    "task_id": 1072,
+    "created": "2019-03-13T14:13:40.031",
+    "final_status": "com.tradeshift.cloudscan.ap.VanImporter.checkImportStatus",
+    "exception_type": null
+  },
+  {
+    "id": 1082,
+    "task_id": 1072,
+    "created": "2019-03-13T14:13:40.131414",
+    "final_status": "VAN Document converted",
+    "exception_type": null
+  },
+  {
+    "id": -1083,
+    "task_id": 1072,
+    "created": "2019-03-13T14:13:40.482",
+    "final_status": "com.tradeshift.cloudscan.ap.VanImporter.updateMetadata",
+    "exception_type": null
+  },
+  {
+    "id": 1083,
+    "task_id": 1072,
+    "created": "2019-03-13T14:13:40.582011",
+    "final_status": "VAN document metadata updated",
+    "exception_type": null
+  },
+  {
+    "id": -1084,
+    "task_id": 1072,
+    "created": "2019-03-13T14:13:40.787",
+    "final_status": "com.tradeshift.cloudscan.ap.VanImporter.findVanReceiver",
+    "exception_type": null
+  },
+  {
+    "id": 1084,
+    "task_id": 1072,
+    "created": "2019-03-13T14:13:40.887858",
+    "final_status": "VAN Receiver found",
+    "exception_type": null
+  },
+  {
+    "id": -1085,
+    "task_id": 1072,
+    "created": "2019-03-13T14:13:41.532",
+    "final_status": "com.tradeshift.cloudscan.ap.VanImporter.createReceiverDraft",
+    "exception_type": null
+  },
+  {
+    "id": 1085,
+    "task_id": 1072,
+    "created": "2019-03-13T14:13:41.632288",
+    "final_status": "VAN Receiver DRAFT created",
+    "exception_type": null
+  },
+  {
+    "id": -1086,
+    "task_id": 1072,
+    "created": "2019-03-13T14:13:41.986",
+    "final_status": "com.tradeshift.cloudscan.ap.VanImporter.saveTagsAndProperties",
+    "exception_type": null
+  },
+  {
+    "id": 1086,
+    "task_id": 1072,
+    "created": "2019-03-13T14:13:42.086146",
+    "final_status": "VAN Receiver DRAFT metadata updated",
+    "exception_type": null
+  },
+  {
+    "id": -1087,
+    "task_id": 1072,
+    "created": "2019-03-13T14:13:42.232",
+    "final_status": "com.tradeshift.cloudscan.ap.VanImporter.saveLegalEntity",
+    "exception_type": null
+  },
+  {
+    "id": 1087,
+    "task_id": 1072,
+    "created": "2019-03-13T14:13:42.332793",
+    "final_status": "VAN Receiver Legal entity name saved",
+    "exception_type": null
+  },
+  {
+    "id": -1088,
+    "task_id": 1072,
+    "created": "2019-03-13T14:13:42.853",
+    "final_status": "com.tradeshift.cloudscan.ap.VanImporter.saveSenderReceiverMetadata",
+    "exception_type": null
+  },
+  {
+    "id": 1088,
+    "task_id": 1072,
+    "created": "2019-03-13T14:13:42.953466",
+    "final_status": "VAN Sender and receiver metadata updated",
+    "exception_type": null
+  },
+  {
+    "id": -1089,
+    "task_id": 1059,
+    "created": "2019-03-13T14:13:48.546",
+    "final_status": "com.tradeshift.cloudscan.ap.VanPreviewCreator.createTsSourcepage",
+    "exception_type": null
+  },
+  {
+    "id": 1089,
+    "task_id": 1059,
+    "created": "2019-03-13T14:13:48.646346",
+    "final_status": "VAN ts-sourcepage.xml created",
+    "exception_type": null
+  },
+  {
+    "id": -1090,
+    "task_id": 1059,
+    "created": "2019-03-13T14:13:52.030",
+    "final_status": "com.tradeshift.cloudscan.ap.VanImporter.deleteVanDocument",
+    "exception_type": null
+  },
+  {
+    "id": 1090,
+    "task_id": 1059,
+    "created": "2019-03-13T14:13:52.130695",
+    "final_status": "VAN vanDocument deleted",
+    "exception_type": null
+  },
+  {
+    "id": -1091,
+    "task_id": 1059,
+    "created": "2019-03-13T14:13:52.212",
+    "final_status": "com.tradeshift.cloudscan.ap.VanImporter.moveVanFileToSuccessFolder",
+    "exception_type": null
+  },
+  {
+    "id": 1091,
+    "task_id": 1059,
+    "created": "2019-03-13T14:13:52.295926",
+    "final_status": "VAN File moved to success directory",
+    "exception_type": null
+  },
+  {
+    "id": -1092,
+    "task_id": 1059,
+    "created": "2019-03-13T14:13:52.353",
+    "final_status": "com.tradeshift.cloudscan.ap.VanImporter.markReadyForTranscription2",
+    "exception_type": null
+  },
+  {
+    "id": 1092,
+    "task_id": 1059,
+    "created": "2019-03-13T14:13:52.412747",
+    "final_status": "VAN Document imported",
+    "exception_type": null
+  },
+  {
+    "id": -1093,
+    "task_id": 1059,
+    "created": "2019-03-13T14:13:52.431",
+    "final_status": "com.tradeshift.cloudscan.ap.VanImporter.reportSuccess2",
+    "exception_type": null
+  },
+  {
+    "id": 1093,
+    "task_id": 1059,
+    "created": "2019-03-13T14:13:52.450254",
+    "final_status": "Ready For Dispatch",
+    "exception_type": null
+  },
+  {
+    "id": -1094,
+    "task_id": 1059,
+    "created": "2019-03-13T14:13:57.042",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.createDispatchingDocument",
+    "exception_type": null
+  },
+  {
+    "id": 1094,
+    "task_id": 1059,
+    "created": "2019-03-13T14:13:57.142852",
+    "final_status": "DispatchingDocument ready",
+    "exception_type": null
+  },
+  {
+    "id": -1095,
+    "task_id": 1059,
+    "created": "2019-03-13T14:13:57.424",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.startAutoDispatch",
+    "exception_type": null
+  },
+  {
+    "id": 1095,
+    "task_id": 1059,
+    "created": "2019-03-13T14:13:57.524186",
+    "final_status": "Dispatch Backlog",
+    "exception_type": null
+  },
+  {
+    "id": -1096,
+    "task_id": 1006,
+    "created": "2019-03-13T14:14:05.313",
+    "final_status": "com.tradeshift.cloudscan.documents.dispatch.DispatchService.manualDispatch",
+    "exception_type": null
+  },
+  {
+    "id": 1096,
+    "task_id": 1006,
+    "created": "2019-03-13T14:14:05.413007",
+    "final_status": "Submitted from sender",
+    "exception_type": null
+  },
+  {
+    "id": -1097,
+    "task_id": 1062,
+    "created": "2019-03-13T14:14:06.196",
+    "final_status": "com.tradeshift.cloudscan.ap.VanPreviewCreator.createTsSourcepage",
+    "exception_type": null
+  },
+  {
+    "id": 1097,
+    "task_id": 1062,
+    "created": "2019-03-13T14:14:06.296415",
+    "final_status": "VAN ts-sourcepage.xml created",
+    "exception_type": null
+  },
+  {
+    "id": -1098,
+    "task_id": 1006,
+    "created": "2019-03-13T14:14:07.272",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.reportDispatchStarted",
+    "exception_type": null
+  },
+  {
+    "id": 1098,
+    "task_id": 1006,
+    "created": "2019-03-13T14:14:07.372672",
+    "final_status": "Dispatch started",
+    "exception_type": null
+  },
+  {
+    "id": -1099,
+    "task_id": 1062,
+    "created": "2019-03-13T14:14:12.560",
+    "final_status": "com.tradeshift.cloudscan.ap.VanImporter.deleteVanDocument",
+    "exception_type": null
+  },
+  {
+    "id": 1099,
+    "task_id": 1062,
+    "created": "2019-03-13T14:14:12.660064",
+    "final_status": "VAN vanDocument deleted",
+    "exception_type": null
+  },
+  {
+    "id": -1100,
+    "task_id": 1062,
+    "created": "2019-03-13T14:14:12.739",
+    "final_status": "com.tradeshift.cloudscan.ap.VanImporter.moveVanFileToSuccessFolder",
+    "exception_type": null
+  },
+  {
+    "id": 1100,
+    "task_id": 1062,
+    "created": "2019-03-13T14:14:12.818639",
+    "final_status": "VAN File moved to success directory",
+    "exception_type": null
+  },
+  {
+    "id": -1101,
+    "task_id": 1062,
+    "created": "2019-03-13T14:14:12.875",
+    "final_status": "com.tradeshift.cloudscan.ap.VanImporter.markReadyForTranscription2",
+    "exception_type": null
+  },
+  {
+    "id": 1101,
+    "task_id": 1062,
+    "created": "2019-03-13T14:14:12.932174",
+    "final_status": "VAN Document imported",
+    "exception_type": null
+  },
+  {
+    "id": -1102,
+    "task_id": 1062,
+    "created": "2019-03-13T14:14:12.948",
+    "final_status": "com.tradeshift.cloudscan.ap.VanImporter.reportSuccess2",
+    "exception_type": null
+  },
+  {
+    "id": 1102,
+    "task_id": 1062,
+    "created": "2019-03-13T14:14:12.964137",
+    "final_status": "Ready For Dispatch",
+    "exception_type": null
+  },
+  {
+    "id": -1103,
+    "task_id": 1072,
+    "created": "2019-03-13T14:14:14.595",
+    "final_status": "com.tradeshift.cloudscan.ap.VanPreviewCreator.createTsSourcepage",
+    "exception_type": null
+  },
+  {
+    "id": 1103,
+    "task_id": 1072,
+    "created": "2019-03-13T14:14:14.695595",
+    "final_status": "VAN ts-sourcepage.xml created",
+    "exception_type": null
+  },
+  {
+    "id": -1104,
+    "task_id": 1006,
+    "created": "2019-03-13T14:14:17.406",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.checkDispatchStatus",
+    "exception_type": null
+  },
+  {
+    "id": -1105,
+    "task_id": 1062,
+    "created": "2019-03-13T14:14:17.490",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.createDispatchingDocument",
+    "exception_type": null
+  },
+  {
+    "id": 1104,
+    "task_id": 1006,
+    "created": "2019-03-13T14:14:17.506548",
+    "final_status": "Dispatch started",
+    "exception_type": null
+  },
+  {
+    "id": 1105,
+    "task_id": 1062,
+    "created": "2019-03-13T14:14:17.590551",
+    "final_status": "DispatchingDocument ready",
+    "exception_type": null
+  },
+  {
+    "id": -1106,
+    "task_id": 1062,
+    "created": "2019-03-13T14:14:17.872",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.startAutoDispatch",
+    "exception_type": null
+  },
+  {
+    "id": 1106,
+    "task_id": 1062,
+    "created": "2019-03-13T14:14:17.97271",
+    "final_status": "Dispatch Backlog",
+    "exception_type": null
+  },
+  {
+    "id": -1107,
+    "task_id": 1072,
+    "created": "2019-03-13T14:14:23.037",
+    "final_status": "com.tradeshift.cloudscan.ap.VanImporter.deleteVanDocument",
+    "exception_type": null
+  },
+  {
+    "id": 1107,
+    "task_id": 1072,
+    "created": "2019-03-13T14:14:23.137063",
+    "final_status": "VAN vanDocument deleted",
+    "exception_type": null
+  },
+  {
+    "id": -1108,
+    "task_id": 1072,
+    "created": "2019-03-13T14:14:23.194",
+    "final_status": "com.tradeshift.cloudscan.ap.VanImporter.moveVanFileToSuccessFolder",
+    "exception_type": null
+  },
+  {
+    "id": 1108,
+    "task_id": 1072,
+    "created": "2019-03-13T14:14:23.251806",
+    "final_status": "VAN File moved to success directory",
+    "exception_type": null
+  },
+  {
+    "id": -1109,
+    "task_id": 1072,
+    "created": "2019-03-13T14:14:23.304",
+    "final_status": "com.tradeshift.cloudscan.ap.VanImporter.markReadyForTranscription2",
+    "exception_type": null
+  },
+  {
+    "id": 1109,
+    "task_id": 1072,
+    "created": "2019-03-13T14:14:23.357373",
+    "final_status": "VAN Document imported",
+    "exception_type": null
+  },
+  {
+    "id": -1110,
+    "task_id": 1072,
+    "created": "2019-03-13T14:14:23.365",
+    "final_status": "com.tradeshift.cloudscan.ap.VanImporter.reportSuccess2",
+    "exception_type": null
+  },
+  {
+    "id": 1110,
+    "task_id": 1072,
+    "created": "2019-03-13T14:14:23.373382",
+    "final_status": "Ready For Dispatch",
+    "exception_type": null
+  },
+  {
+    "id": -1111,
+    "task_id": 1006,
+    "created": "2019-03-13T14:14:27.532",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.checkDispatchStatus",
+    "exception_type": null
+  },
+  {
+    "id": 1111,
+    "task_id": 1006,
+    "created": "2019-03-13T14:14:27.632431",
+    "final_status": "Dispatched",
+    "exception_type": null
+  },
+  {
+    "id": -1112,
+    "task_id": 1006,
+    "created": "2019-03-13T14:14:27.678",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.findReceivedDocument",
+    "exception_type": null
+  },
+  {
+    "id": 1112,
+    "task_id": 1006,
+    "created": "2019-03-13T14:14:27.725012",
+    "final_status": "Received document found",
+    "exception_type": null
+  },
+  {
+    "id": -1113,
+    "task_id": 1072,
+    "created": "2019-03-13T14:14:27.923",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.createDispatchingDocument",
+    "exception_type": null
+  },
+  {
+    "id": 1113,
+    "task_id": 1072,
+    "created": "2019-03-13T14:14:28.023917",
+    "final_status": "DispatchingDocument ready",
+    "exception_type": null
+  },
+  {
+    "id": -1114,
+    "task_id": 1072,
+    "created": "2019-03-13T14:14:28.187",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.startAutoDispatch",
+    "exception_type": null
+  },
+  {
+    "id": -1115,
+    "task_id": 1006,
+    "created": "2019-03-13T14:14:28.192",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.copyProperties",
+    "exception_type": null
+  },
+  {
+    "id": 1114,
+    "task_id": 1072,
+    "created": "2019-03-13T14:14:28.287867",
+    "final_status": "Dispatch Backlog",
+    "exception_type": null
+  },
+  {
+    "id": 1115,
+    "task_id": 1006,
+    "created": "2019-03-13T14:14:28.292324",
+    "final_status": "Properties copied to received document",
+    "exception_type": null
+  },
+  {
+    "id": -1116,
+    "task_id": 1006,
+    "created": "2019-03-13T14:14:28.329",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.reportDispatchSuccess",
+    "exception_type": null
+  },
+  {
+    "id": 1116,
+    "task_id": 1006,
+    "created": "2019-03-13T14:14:28.367396",
+    "final_status": "Dispatch success reported",
+    "exception_type": null
+  },
+  {
+    "id": -1117,
+    "task_id": 1006,
+    "created": "2019-03-13T14:14:28.416",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.deleteImportedDocument",
+    "exception_type": null
+  },
+  {
+    "id": 1117,
+    "task_id": 1006,
+    "created": "2019-03-13T14:14:28.466715",
+    "final_status": "Imported document deleted",
+    "exception_type": null
+  },
+  {
+    "id": -1118,
+    "task_id": 1006,
+    "created": "2019-03-13T14:14:28.484",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.activateMappingRule",
+    "exception_type": null
+  },
+  {
+    "id": 1118,
+    "task_id": 1006,
+    "created": "2019-03-13T14:14:28.502855",
+    "final_status": "Dispatch success",
+    "exception_type": null
+  },
+  {
+    "id": -1119,
+    "task_id": 1042,
+    "created": "2019-03-13T14:32:09.177",
+    "final_status": "com.tradeshift.cloudscan.documents.dispatch.DispatchService.manualDispatch",
+    "exception_type": null
+  },
+  {
+    "id": 1119,
+    "task_id": 1042,
+    "created": "2019-03-13T14:32:09.277018",
+    "final_status": "Submitted from sender",
+    "exception_type": null
+  },
+  {
+    "id": -1120,
+    "task_id": 1042,
+    "created": "2019-03-13T14:32:18.692",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.reportDispatchStarted",
+    "exception_type": null
+  },
+  {
+    "id": 1120,
+    "task_id": 1042,
+    "created": "2019-03-13T14:32:18.792145",
+    "final_status": "Dispatch started",
+    "exception_type": null
+  },
+  {
+    "id": -1121,
+    "task_id": 1042,
+    "created": "2019-03-13T14:32:28.773",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.checkDispatchStatus",
+    "exception_type": null
+  },
+  {
+    "id": 1121,
+    "task_id": 1042,
+    "created": "2019-03-13T14:32:28.873787",
+    "final_status": "Dispatched",
+    "exception_type": null
+  },
+  {
+    "id": -1122,
+    "task_id": 1042,
+    "created": "2019-03-13T14:32:28.912",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.findReceivedDocument",
+    "exception_type": null
+  },
+  {
+    "id": 1122,
+    "task_id": 1042,
+    "created": "2019-03-13T14:32:28.951979",
+    "final_status": "Received document found",
+    "exception_type": null
+  },
+  {
+    "id": -1123,
+    "task_id": 1042,
+    "created": "2019-03-13T14:32:29.332",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.copyProperties",
+    "exception_type": null
+  },
+  {
+    "id": 1123,
+    "task_id": 1042,
+    "created": "2019-03-13T14:32:29.432984",
+    "final_status": "Properties copied to received document",
+    "exception_type": null
+  },
+  {
+    "id": -1124,
+    "task_id": 1042,
+    "created": "2019-03-13T14:32:29.448",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.reportDispatchSuccess",
+    "exception_type": null
+  },
+  {
+    "id": 1124,
+    "task_id": 1042,
+    "created": "2019-03-13T14:32:29.464287",
+    "final_status": "Dispatch success reported",
+    "exception_type": null
+  },
+  {
+    "id": -1125,
+    "task_id": 1042,
+    "created": "2019-03-13T14:32:29.529",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.deleteImportedDocument",
+    "exception_type": null
+  },
+  {
+    "id": 1125,
+    "task_id": 1042,
+    "created": "2019-03-13T14:32:29.594125",
+    "final_status": "Imported document deleted",
+    "exception_type": null
+  },
+  {
+    "id": -1126,
+    "task_id": 1042,
+    "created": "2019-03-13T14:32:29.626",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.activateMappingRule",
+    "exception_type": null
+  },
+  {
+    "id": 1126,
+    "task_id": 1042,
+    "created": "2019-03-13T14:32:29.659638",
+    "final_status": "Dispatch success",
+    "exception_type": null
+  },
+  {
+    "id": -1127,
+    "task_id": 1072,
+    "created": "2019-03-13T14:35:04.989",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.createDispatchingDocument",
+    "exception_type": null
+  },
+  {
+    "id": 1127,
+    "task_id": 1072,
+    "created": "2019-03-13T14:35:05.089088",
+    "final_status": "DispatchingDocument ready",
+    "exception_type": null
+  },
+  {
+    "id": -1128,
+    "task_id": 1072,
+    "created": "2019-03-13T14:35:06.439",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.startAutoDispatch",
+    "exception_type": null
+  },
+  {
+    "id": 1128,
+    "task_id": 1072,
+    "created": "2019-03-13T14:35:06.539162",
+    "final_status": "Dispatch triggered",
+    "exception_type": null
+  },
+  {
+    "id": -1129,
+    "task_id": 1059,
+    "created": "2019-03-13T14:35:06.553",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.createDispatchingDocument",
+    "exception_type": null
+  },
+  {
+    "id": 1129,
+    "task_id": 1059,
+    "created": "2019-03-13T14:35:06.653801",
+    "final_status": "DispatchingDocument ready",
+    "exception_type": null
+  },
+  {
+    "id": -1130,
+    "task_id": 1059,
+    "created": "2019-03-13T14:35:07.286",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.startAutoDispatch",
+    "exception_type": null
+  },
+  {
+    "id": 1130,
+    "task_id": 1059,
+    "created": "2019-03-13T14:35:07.386878",
+    "final_status": "Dispatch triggered",
+    "exception_type": null
+  },
+  {
+    "id": -1131,
+    "task_id": 1059,
+    "created": "2019-03-13T14:35:07.423",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.validateInput",
+    "exception_type": null
+  },
+  {
+    "id": 1131,
+    "task_id": 1059,
+    "created": "2019-03-13T14:35:07.461487",
+    "final_status": "Dispatch input valid",
+    "exception_type": null
+  },
+  {
+    "id": -1132,
+    "task_id": 1059,
+    "created": "2019-03-13T14:35:07.770",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.updateSenderMetadata",
+    "exception_type": null
+  },
+  {
+    "id": 1132,
+    "task_id": 1059,
+    "created": "2019-03-13T14:35:07.870812",
+    "final_status": "Sender metadata updated",
+    "exception_type": null
+  },
+  {
+    "id": -1133,
+    "task_id": 1059,
+    "created": "2019-03-13T14:35:07.912",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.createSenderAccount",
+    "exception_type": null
+  },
+  {
+    "id": 1133,
+    "task_id": 1059,
+    "created": "2019-03-13T14:35:07.954275",
+    "final_status": "Sender account created",
+    "exception_type": null
+  },
+  {
+    "id": -1134,
+    "task_id": 1059,
+    "created": "2019-03-13T14:35:09.727",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.saveSenderCopy",
+    "exception_type": null
+  },
+  {
+    "id": -1135,
+    "task_id": 1062,
+    "created": "2019-03-13T14:35:09.810",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.createDispatchingDocument",
+    "exception_type": null
+  },
+  {
+    "id": 1134,
+    "task_id": 1059,
+    "created": "2019-03-13T14:35:09.827312",
+    "final_status": "Sender account created",
+    "exception_type": "com.tradeshift.commons.http.RemoteValidationException"
+  },
+  {
+    "id": 1135,
+    "task_id": 1062,
+    "created": "2019-03-13T14:35:09.910982",
+    "final_status": "DispatchingDocument ready",
+    "exception_type": null
+  },
+  {
+    "id": -1136,
+    "task_id": 1062,
+    "created": "2019-03-13T14:35:10.575",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.startAutoDispatch",
+    "exception_type": null
+  },
+  {
+    "id": 1136,
+    "task_id": 1062,
+    "created": "2019-03-13T14:35:10.675184",
+    "final_status": "Dispatch triggered",
+    "exception_type": null
+  },
+  {
+    "id": -1137,
+    "task_id": 1062,
+    "created": "2019-03-13T14:35:10.698",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.validateInput",
+    "exception_type": null
+  },
+  {
+    "id": 1137,
+    "task_id": 1062,
+    "created": "2019-03-13T14:35:10.7224",
+    "final_status": "Dispatch input valid",
+    "exception_type": null
+  },
+  {
+    "id": -1138,
+    "task_id": 1062,
+    "created": "2019-03-13T14:35:10.776",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.updateSenderMetadata",
+    "exception_type": null
+  },
+  {
+    "id": 1138,
+    "task_id": 1062,
+    "created": "2019-03-13T14:35:10.83041",
+    "final_status": "Sender metadata updated",
+    "exception_type": null
+  },
+  {
+    "id": -1139,
+    "task_id": 1062,
+    "created": "2019-03-13T14:35:10.886",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.createSenderAccount",
+    "exception_type": null
+  },
+  {
+    "id": 1139,
+    "task_id": 1062,
+    "created": "2019-03-13T14:35:10.942624",
+    "final_status": "Sender account created",
+    "exception_type": null
+  },
+  {
+    "id": -1140,
+    "task_id": 1062,
+    "created": "2019-03-13T14:35:12.513",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.saveSenderCopy",
+    "exception_type": null
+  },
+  {
+    "id": 1140,
+    "task_id": 1062,
+    "created": "2019-03-13T14:35:12.613591",
+    "final_status": "Sender copy saved",
+    "exception_type": null
+  },
+  {
+    "id": -1141,
+    "task_id": 1062,
+    "created": "2019-03-13T14:35:12.645",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.createDispatchId",
+    "exception_type": null
+  },
+  {
+    "id": 1141,
+    "task_id": 1062,
+    "created": "2019-03-13T14:35:12.677141",
+    "final_status": "DispatchId created",
+    "exception_type": null
+  },
+  {
+    "id": -1142,
+    "task_id": 1062,
+    "created": "2019-03-13T14:35:12.982",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.dispatchAsSender",
+    "exception_type": null
+  },
+  {
+    "id": 1142,
+    "task_id": 1062,
+    "created": "2019-03-13T14:35:13.082866",
+    "final_status": "Submitted from sender",
+    "exception_type": null
+  },
+  {
+    "id": -1143,
+    "task_id": 1062,
+    "created": "2019-03-13T14:35:13.175",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.reportDispatchStarted",
+    "exception_type": null
+  },
+  {
+    "id": -1144,
+    "task_id": 1072,
+    "created": "2019-03-13T14:35:13.220",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.validateInput",
+    "exception_type": null
+  },
+  {
+    "id": 1143,
+    "task_id": 1062,
+    "created": "2019-03-13T14:35:13.269062",
+    "final_status": "Dispatch started",
+    "exception_type": null
+  },
+  {
+    "id": 1144,
+    "task_id": 1072,
+    "created": "2019-03-13T14:35:13.320838",
+    "final_status": "Dispatch input valid",
+    "exception_type": null
+  },
+  {
+    "id": -1145,
+    "task_id": 1072,
+    "created": "2019-03-13T14:35:13.376",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.updateSenderMetadata",
+    "exception_type": null
+  },
+  {
+    "id": 1145,
+    "task_id": 1072,
+    "created": "2019-03-13T14:35:13.43253",
+    "final_status": "Sender metadata updated",
+    "exception_type": null
+  },
+  {
+    "id": -1146,
+    "task_id": 1072,
+    "created": "2019-03-13T14:35:13.487",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.createSenderAccount",
+    "exception_type": null
+  },
+  {
+    "id": 1146,
+    "task_id": 1072,
+    "created": "2019-03-13T14:35:13.543825",
+    "final_status": "Sender account created",
+    "exception_type": null
+  },
+  {
+    "id": -1147,
+    "task_id": 1072,
+    "created": "2019-03-13T14:35:14.998",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.saveSenderCopy",
+    "exception_type": null
+  },
+  {
+    "id": 1147,
+    "task_id": 1072,
+    "created": "2019-03-13T14:35:15.098458",
+    "final_status": "Sender copy saved",
+    "exception_type": null
+  },
+  {
+    "id": -1148,
+    "task_id": 1072,
+    "created": "2019-03-13T14:35:15.129",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.createDispatchId",
+    "exception_type": null
+  },
+  {
+    "id": 1148,
+    "task_id": 1072,
+    "created": "2019-03-13T14:35:15.16182",
+    "final_status": "DispatchId created",
+    "exception_type": null
+  },
+  {
+    "id": -1149,
+    "task_id": 1072,
+    "created": "2019-03-13T14:35:15.401",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.dispatchAsSender",
+    "exception_type": null
+  },
+  {
+    "id": 1149,
+    "task_id": 1072,
+    "created": "2019-03-13T14:35:15.501802",
+    "final_status": "Submitted from sender",
+    "exception_type": null
+  },
+  {
+    "id": -1150,
+    "task_id": 1072,
+    "created": "2019-03-13T14:35:15.563",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.reportDispatchStarted",
+    "exception_type": null
+  },
+  {
+    "id": 1150,
+    "task_id": 1072,
+    "created": "2019-03-13T14:35:15.626093",
+    "final_status": "Dispatch started",
+    "exception_type": null
+  },
+  {
+    "id": -1151,
+    "task_id": 1062,
+    "created": "2019-03-13T14:35:24.929",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.checkDispatchStatus",
+    "exception_type": null
+  },
+  {
+    "id": 1151,
+    "task_id": 1062,
+    "created": "2019-03-13T14:35:25.029668",
+    "final_status": "Dispatched",
+    "exception_type": null
+  },
+  {
+    "id": -1152,
+    "task_id": 1062,
+    "created": "2019-03-13T14:35:25.098",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.findReceivedDocument",
+    "exception_type": null
+  },
+  {
+    "id": 1152,
+    "task_id": 1062,
+    "created": "2019-03-13T14:35:25.167284",
+    "final_status": "Received document found",
+    "exception_type": null
+  },
+  {
+    "id": -1153,
+    "task_id": 1072,
+    "created": "2019-03-13T14:35:25.647",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.checkDispatchStatus",
+    "exception_type": null
+  },
+  {
+    "id": -1154,
+    "task_id": 1062,
+    "created": "2019-03-13T14:35:25.696",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.copyProperties",
+    "exception_type": null
+  },
+  {
+    "id": 1153,
+    "task_id": 1072,
+    "created": "2019-03-13T14:35:25.747034",
+    "final_status": "Dispatched",
+    "exception_type": null
+  },
+  {
+    "id": 1154,
+    "task_id": 1062,
+    "created": "2019-03-13T14:35:25.796989",
+    "final_status": "Properties copied to received document",
+    "exception_type": null
+  },
+  {
+    "id": -1155,
+    "task_id": 1072,
+    "created": "2019-03-13T14:35:25.855",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.findReceivedDocument",
+    "exception_type": null
+  },
+  {
+    "id": -1156,
+    "task_id": 1062,
+    "created": "2019-03-13T14:35:25.878",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.reportDispatchSuccess",
+    "exception_type": null
+  },
+  {
+    "id": 1155,
+    "task_id": 1072,
+    "created": "2019-03-13T14:35:25.955097",
+    "final_status": "Received document found",
+    "exception_type": null
+  },
+  {
+    "id": 1156,
+    "task_id": 1062,
+    "created": "2019-03-13T14:35:25.960202",
+    "final_status": "Dispatch success reported",
+    "exception_type": null
+  },
+  {
+    "id": -1157,
+    "task_id": 1062,
+    "created": "2019-03-13T14:35:26.138",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.deleteImportedDocument",
+    "exception_type": null
+  },
+  {
+    "id": 1157,
+    "task_id": 1062,
+    "created": "2019-03-13T14:35:26.238218",
+    "final_status": "Imported document deleted",
+    "exception_type": null
+  },
+  {
+    "id": -1158,
+    "task_id": 1062,
+    "created": "2019-03-13T14:35:26.259",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.activateMappingRule",
+    "exception_type": null
+  },
+  {
+    "id": 1158,
+    "task_id": 1062,
+    "created": "2019-03-13T14:35:26.280365",
+    "final_status": "Dispatch success",
+    "exception_type": null
+  },
+  {
+    "id": -1159,
+    "task_id": 1072,
+    "created": "2019-03-13T14:35:26.399",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.copyProperties",
+    "exception_type": null
+  },
+  {
+    "id": 1159,
+    "task_id": 1072,
+    "created": "2019-03-13T14:35:26.499684",
+    "final_status": "Properties copied to received document",
+    "exception_type": null
+  },
+  {
+    "id": -1160,
+    "task_id": 1072,
+    "created": "2019-03-13T14:35:26.533",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.reportDispatchSuccess",
+    "exception_type": null
+  },
+  {
+    "id": 1160,
+    "task_id": 1072,
+    "created": "2019-03-13T14:35:26.568271",
+    "final_status": "Dispatch success reported",
+    "exception_type": null
+  },
+  {
+    "id": -1161,
+    "task_id": 1072,
+    "created": "2019-03-13T14:35:26.631",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.deleteImportedDocument",
+    "exception_type": null
+  },
+  {
+    "id": 1161,
+    "task_id": 1072,
+    "created": "2019-03-13T14:35:26.695706",
+    "final_status": "Imported document deleted",
+    "exception_type": null
+  },
+  {
+    "id": -1162,
+    "task_id": 1072,
+    "created": "2019-03-13T14:35:26.722",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.activateMappingRule",
+    "exception_type": null
+  },
+  {
+    "id": 1162,
+    "task_id": 1072,
+    "created": "2019-03-13T14:35:26.750167",
+    "final_status": "Dispatch success",
+    "exception_type": null
+  },
+  {
+    "id": -1163,
+    "task_id": 1059,
+    "created": "2019-03-13T14:37:17.130",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.saveSenderCopy",
+    "exception_type": "com.tradeshift.commons.http.RemoteValidationException"
+  },
+  {
+    "id": 1163,
+    "task_id": 1059,
+    "created": "2019-03-13T14:37:17.230541",
+    "final_status": "Sender account created",
+    "exception_type": "com.tradeshift.commons.http.RemoteValidationException"
+  },
+
+
+
+  {
+    "id": -71163,
+    "task_id": 1059,
+    "created": "2019-03-13T14:38:54.130",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.saveSenderCopy",
+    "exception_type": "com.tradeshift.commons.http.RemoteValidationException"
+  },
+  {
+    "id": 71163,
+    "task_id": 1059,
+    "created": "2019-03-13T14:38:55.917",
+    "final_status": "Dispatch error",
+    "exception_type": "com.tradeshift.commons.http.RemoteValidationException"
+  },
+
+
+  {
+    "id": -1164,
+    "task_id": 1059,
+    "created": "2019-03-13T14:38:56.917",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.captureDispatchError",
+    "exception_type": null
+  },
+  {
+    "id": 1164,
+    "task_id": 1059,
+    "created": "2019-03-13T14:38:57.01794",
+    "final_status": "Dispatch error captured",
+    "exception_type": null
+  },
+  {
+    "id": -1165,
+    "task_id": 1059,
+    "created": "2019-03-13T14:38:57.200",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.deleteSenderCopy",
+    "exception_type": null
+  },
+  {
+    "id": 1165,
+    "task_id": 1059,
+    "created": "2019-03-13T14:38:57.300248",
+    "final_status": "Sender copy deleted",
+    "exception_type": null
+  },
+  {
+    "id": -1166,
+    "task_id": 1059,
+    "created": "2019-03-13T14:38:57.334",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.deleteDraftMappingRule",
+    "exception_type": null
+  },
+  {
+    "id": 1166,
+    "task_id": 1059,
+    "created": "2019-03-13T14:38:57.368849",
+    "final_status": "Draft mapping rule deleted",
+    "exception_type": null
+  },
+  {
+    "id": -1167,
+    "task_id": 1059,
+    "created": "2019-03-13T14:38:57.452",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.reportDispatchFailed",
+    "exception_type": null
+  },
+  {
+    "id": 1167,
+    "task_id": 1059,
+    "created": "2019-03-13T14:38:57.53611",
+    "final_status": "Dispatch failure reported",
+    "exception_type": null
+  },
+  {
+    "id": -1168,
+    "task_id": 1059,
+    "created": "2019-03-13T14:38:57.585",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.autoReject",
+    "exception_type": null
+  },
+  {
+    "id": 1168,
+    "task_id": 1059,
+    "created": "2019-03-13T14:38:57.634628",
+    "final_status": "Dispatch failed",
+    "exception_type": null
+  },
+  {
+    "id": -1179,
+    "task_id": 1000,
+    "created": "2019-03-13T14:43:17.501",
+    "final_status": "com.tradeshift.cloudscan.documents.dispatch.DispatchService.manualDispatch",
+    "exception_type": null
+  },
+  {
+    "id": 1179,
+    "task_id": 1000,
+    "created": "2019-03-13T14:43:17.601783",
+    "final_status": "Submitted from sender",
+    "exception_type": null
+  },
+  {
+    "id": -1180,
+    "task_id": 1000,
+    "created": "2019-03-13T14:43:17.759",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.reportDispatchStarted",
+    "exception_type": null
+  },
+  {
+    "id": 1180,
+    "task_id": 1000,
+    "created": "2019-03-13T14:43:17.859182",
+    "final_status": "Dispatch started",
+    "exception_type": null
+  },
+  {
+    "id": -1181,
+    "task_id": 1000,
+    "created": "2019-03-13T14:43:27.832",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.checkDispatchStatus",
+    "exception_type": null
+  },
+  {
+    "id": 1181,
+    "task_id": 1000,
+    "created": "2019-03-13T14:43:27.932762",
+    "final_status": "Dispatched",
+    "exception_type": null
+  },
+  {
+    "id": -1182,
+    "task_id": 1000,
+    "created": "2019-03-13T14:43:28.002",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.findReceivedDocument",
+    "exception_type": null
+  },
+  {
+    "id": 1182,
+    "task_id": 1000,
+    "created": "2019-03-13T14:43:28.073426",
+    "final_status": "Received document found",
+    "exception_type": null
+  },
+  {
+    "id": -1183,
+    "task_id": 1000,
+    "created": "2019-03-13T14:43:28.525",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.copyProperties",
+    "exception_type": null
+  },
+  {
+    "id": 1183,
+    "task_id": 1000,
+    "created": "2019-03-13T14:43:28.625056",
+    "final_status": "Properties copied to received document",
+    "exception_type": null
+  },
+  {
+    "id": -1184,
+    "task_id": 1000,
+    "created": "2019-03-13T14:43:28.648",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.reportDispatchSuccess",
+    "exception_type": null
+  },
+  {
+    "id": 1184,
+    "task_id": 1000,
+    "created": "2019-03-13T14:43:28.672533",
+    "final_status": "Dispatch success reported",
+    "exception_type": null
+  },
+  {
+    "id": -1185,
+    "task_id": 1000,
+    "created": "2019-03-13T14:43:28.736",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.deleteImportedDocument",
+    "exception_type": null
+  },
+  {
+    "id": 1185,
+    "task_id": 1000,
+    "created": "2019-03-13T14:43:28.801553",
+    "final_status": "Imported document deleted",
+    "exception_type": null
+  },
+  {
+    "id": -1186,
+    "task_id": 1000,
+    "created": "2019-03-13T14:43:28.822",
+    "final_status": "com.tradeshift.cloudscan.ap.DocumentDispatcher.activateMappingRule",
+    "exception_type": null
+  },
+  {
+    "id": 1186,
+    "task_id": 1000,
+    "created": "2019-03-13T14:43:28.844641",
+    "final_status": "Dispatch success",
+    "exception_type": null
+  }
+]
